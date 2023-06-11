@@ -1,0 +1,14 @@
+
+greet the user
+show 1:manage contact 2:message 3:quit
+if 1:manage contact
+    1.1:show all contact
+    1.2:add a new contact
+    1.3:delete a contact
+    1.4:go back to all message
+    1.5:search a contact
+if  2:message
+    2.1:see all message
+    2.2:send message
+    2.3:back
+if 3:quit
